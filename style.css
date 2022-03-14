@@ -27,7 +27,7 @@ body {
     width: 100%;
     margin: 0 auto;
     text-align: center;
-    margin-top: -80px;
+    margin-top: -100px;
 }
 
 h1 {
@@ -37,11 +37,19 @@ h1 {
 }
 
 img {
-    width: 60%;
+    width: 100%;
 }
 
 .input-group {
-    width: 50%;
+    width: 70%;
     margin: 0 auto;
     display: flex;
+}
+
+#result {
+    font-size: 20px;
+    padding: 10px;
+}
+input:focus, textarea:focus, select:focus{
+    outline: none;
 }

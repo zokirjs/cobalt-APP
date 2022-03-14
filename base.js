@@ -116,3 +116,4 @@ const data = [
         description: "Akkumulyator batareyasida quvvat kam."
     }
 ]
+
