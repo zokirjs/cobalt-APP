@@ -39,17 +39,14 @@ const data = [
         code: 25,
         description: "Chap old burilishni ko'rsatuvchi chiroqda nosozlik."
     },
-    
     {
         code: 26,
         description: "Chap orqa burilishni ko'rsatuvchi chiroqda nosozlik."
     },
-    
     {
         code: 27,
         description: "O'ng old burilishni ko'rsatuvchi chiroqda nosozlik."
     },
-    
     {
         code: 28,
         description: "O'ng orqa burilishni ko'rsatuvchi chiroqda nosozlik."
@@ -100,22 +97,22 @@ const data = [
     },
     {
         code: 89,
-        description: "O'grilikka qarshi signalizatsiyada nosozlik."
+        description: "Tez orada avtomobilga texnik xizmat ko'rsatish talab etiladi."
     },
     {
         code: 94,
-        description: "Konditsioner tizimini tekshiring."
+        description: "Uzatmalarni almashlab qo'shish dastagini 'P' (to'xtab turish) holatiga o'tkazing."
     },
     {
         code: 95,
-        description: "Dvigitel moyini tekshiring."
+        description: "Xavfsizlik yostiqchasida nosozlik."
     },
     {
         code: 128,
-        description: "Avtomatik uzatmalar qutisini tekshiring."
+        description: "Kapot ochiq."
     },
     {
         code: 174,
-        description: "Dvigitelning quvvati pasaydi."
+        description: "Akkumulyator batareyasida quvvat kam."
     }
 ]
