@@ -1,0 +1,47 @@
+/* Latest compiled and minified CSS included as External Resource*/
+
+/* Optional theme */
+@import url('//netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-theme.min.css');
+
+body {
+    margin: 10px;
+    background: #ffff;
+}
+
+.row-centered {
+    text-align: center;
+}
+
+.col-centered {
+    display: inline-block;
+    float: none;
+    text-align: left;
+    margin-right: -4px;
+}
+.pos {
+    position: relative;
+    top: 240px;
+}
+
+.content {
+    width: 100%;
+    margin: 0 auto;
+    text-align: center;
+    margin-top: -80px;
+}
+
+h1 {
+    text-transform: uppercase;
+    font-size: arial;
+    font-weight: bold;
+}
+
+img {
+    width: 60%;
+}
+
+.input-group {
+    width: 50%;
+    margin: 0 auto;
+    display: flex;
+}
